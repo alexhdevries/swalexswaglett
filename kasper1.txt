@@ -1,0 +1,2 @@
+Hallo, dit is versie 1 van kasper1.txt
+Dit is nu ook versie 2 van kasper1.txt
